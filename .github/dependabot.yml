@@ -34,4 +34,4 @@ updates:
         dependency-type: "development"
       symfony:
         patterns:
-          - "symfony/*"
+          - "symfony/*"..
